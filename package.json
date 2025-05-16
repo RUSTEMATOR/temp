@@ -1,0 +1,20 @@
+{
+  "name": "kb_regression",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@faker-js/faker": "^9.4.0",
+    "@playwright/test": "^1.50.0",
+    "@types/node": "^22.10.10",
+    "playwright-qase-reporter": "^2.0.16"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "moment": "^2.30.1",
+    "speakeasy": "^2.0.0"
+  }
+}
