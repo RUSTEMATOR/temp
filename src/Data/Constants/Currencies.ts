@@ -1,0 +1,1 @@
+export const LIST_OF_CURRENCIES: Array<string> = ['EUR', 'USD', 'NOK', 'AUD', 'NZD', 'CAD', 'ZAR', 'INR', 'PHP', 'BTC', 'ETH', 'LTC', 'USDT']

@@ -1,0 +1,3 @@
+export const COUNTRIES = ['Argentina','Australia','Austria','Bahrain','Canada','Chile','Denmark','Ecuador','Germany','Iceland','India','Ireland','Italy','Jordan','Kazakhstan',`Korea, Republic of`,'Kuwait','Lesotho','Luxembourg','Mexico',
+    'New Zealand','Norway',
+    'Oman','Philippines','Puerto Rico','Qatar','Saint Vincent and the Grenadines','Saudi Arabia','Slovenia', 'South Africa','Switzerland','United Arab Emirates','Uruguay']

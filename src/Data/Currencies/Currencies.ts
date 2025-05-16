@@ -1,0 +1,1 @@
+export const CURRENCIES = ['EUR', 'USD', 'NOK', 'AUD', 'NZD', 'CAD', 'ZAR', 'INR', 'PHP', 'BTC', 'ETH', 'LTC', 'USDT']

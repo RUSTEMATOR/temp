@@ -1,0 +1,1 @@
+export const LOCALES = ['EN', 'EN-AU', 'EN-NZ', 'CA', 'DE', 'NO']
